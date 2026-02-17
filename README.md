@@ -44,5 +44,3 @@ The purpose of this repository is to:
 - Git & GitHub
 - VS Code
 
-## 📂 Folder Structure
-
